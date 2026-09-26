@@ -5,6 +5,9 @@
         "movement": 2,
         "uniques": ["Founds a new city <by consuming this unit>","Requires at least [2] population"]
     },
+	{
+		"name": "Worker",
+		"unitType
     {
 		"name": "Rifleman",
 		"unitType": "Infantry",
