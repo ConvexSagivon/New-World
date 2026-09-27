@@ -6,6 +6,61 @@
     {
         "name": "Infantry",
         "movementType": "Land"
-    }
-    
-]
+    },
+    {
+        "name": "Archery",
+        "movementType": "Land"
+    },
+    {
+        "name": "Reconnaissance",
+        "movementType": "Land",
+    },
+    {
+        "name": "Cavalry",
+        "movementType": "Land"
+    },
+    {
+        "name": "Siege",
+        "movementType": "Land"
+    },
+    {
+        "name": "Armoured",
+        "movementType": "Land"
+    },
+    {
+        "name": "Helicopter",
+        "movementType": "Land"
+    },
+    {
+        "name": "Fighter",
+        "movementType": "Air"
+    },
+    {
+        "name" "Bomber",
+        "movementType": "Air"
+    },
+    {
+        "name": "Atomic Bomber",
+        "movementType": "Air"
+    },
+    {
+        "name": "Missile",
+        "movementType": "Air"
+    },
+    {
+        "name": "Aquatic Civilian",
+        "movementType": "Water"
+    },
+    {
+        "name": "Aquatic Melee",
+        "movementType": "Water"
+    },
+    {
+        "name": "Ranged Aquatic",
+        "movementType": "Water"
+    },
+    {
+        "name": "Submarine",
+        "movementType": "Water"
+    },
+    {
