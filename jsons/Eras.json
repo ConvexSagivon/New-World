@@ -1,16 +1,21 @@
 [
     {
-        "name": "Tier 0 Era",
+        "name": "Ancient Era",
         "researchAgreementCost": 150,
         "startingSettlerCount": 1, 
         "startingWorkerCount": 0,
         "startingMilitaryUnitCount": 1,
-        "startingMilitaryUnit": "Rifleman",
+        "startingMilitaryUnit": "Warrior",
         "settlerPopulation": 1,
         "baseUnitBuyCost": 200,
         "embarkDefense": 3,
         "startPercent": 0,
         "citySound": "cityAncient",
         "iconRGB": [255, 87, 35]
-    }
-]
+    },
+    {
+        "name": "Antique Era",
+        "researchAgreementCost": 350,
+        "startingSettlerCount": 2,
+        "startingWorkerCount": 3,
+        "startingMilitaryUnitCount": 
