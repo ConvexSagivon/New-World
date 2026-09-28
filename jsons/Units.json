@@ -4,7 +4,6 @@
         "unitType": "Civilian",
         "movement": 2,
 		"cost": 106,
-		"buyCost": 500,
         "uniques": ["Founds a new city <by consuming this unit>","Requires at least [2] population"]
     },
 	{
@@ -12,16 +11,28 @@
 		"unitType": "Civilian",
 		"movement": 2,
 		"cost": 70,
-		"buyCost": 300,
 		"uniques": ["Can build land improvements on tiles"]
-    {
-		"name": "Rifleman",
+	},
+	{
+		"name": "Scout",
+		"unitType": "Reconnaissance",
+		"movement": 2,
+		"cost": 25,
+		"strength": 5,
+		"promotions": ["Ignore terrain cost"],
+	},
+	{
+		"name": "Warrior",
 		"unitType": "Infantry",
 		"movement": 2,
-		"strength": 5,
-        "range": 2,
-		"rangedStrength": 7,
+		"strength": 8,
 		"cost": 40,
-		"attackSound": "shot"
-	}
-]
+		"upgradesTo": "Swordsman",
+		"obseleteTech": "Iron Works",
+		"attackSound": "nonmetalhit",
+	},
+	{
+		"name": "Archer",
+		"unitType": "
+		
+		
