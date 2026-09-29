@@ -1,7 +1,7 @@
 [
     {
-		"name": "Adelle Corp",
-		"leaderName": "Kane",
+		"name": "The Zulu",
+		"leaderName": "Shaka Zulu",
 		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "Sample text.",
@@ -13,10 +13,10 @@
 		"tradeRequest": "I am not always this generous, but we hope you take this rare opportunity we give you.",
 		"outerColor": [0,0,0],
 		"innerColor": [142,22,0],
-		"uniqueName": "Word of Nod",
-		"uniques": ["[+30]% Strength <vs [City-States]>", "[+2] Movement <for [Armored] units>"],
-		"cities": ["Ketilsstaoir","Frooaross","Hraun","Geirhildarvatn","Dumbshaf","Leioolfsstaoir","Hraunsass","Mosfell","Geirmundarstaoir","Holmgaror","Selaeyrr",
-"Horga","Fellshverfi","Kalfborgara","Reykir inir efri","Bolstaor","Beruvikrhraun","Berghylr","Rauosgil"]
+		"uniqueName": "Power of the Kingdom",
+		"uniques": ["[-50]% maintenance costs <for [Infantry] units>"]
+		"cities": ["uLundi","oNdini","eShowe","uMlalazi","eNongoma","eMthonjaneni","eDlolwana","eNkandla","eHluhluwe","eMkuze","eMagudu","eMtubatuba",
+			"eHlabisa","eDumbe","eNquthu","eMelmoth","eMbongolwana","eMseleni","eJozini","ePongola"]
 	},
 
 	{
