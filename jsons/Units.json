@@ -118,7 +118,42 @@
 	},
 	{
 		"name": "Galley",
-		"unitType": "
+		"unitType": "Ranged Aquatic",
+		"requiredTech": "The Compass",
+		"movement": 3,
+		"range": 2,
+		"strength": 30,
+		"rangedStrength": 34,
+		"cost": 100,
+		"upgradesTo": "Frigate",
+		"obsoleteTech": "Navigation",
+		"attackSound": "arrow",
+	},
+	{
+		"name": "Man-at-Arms",
+		"unitType": "Infantry",
+		"requiredTech": "Civil Duty",
+		"movement": 2,
+		"strength": 28,
+		"cost": 90,
+		"upgradesTo": "Pike and Shot",
+		"obsoleteTech": "Metallurgy",
+		"attackSound": "sword",
+	},
+	{
+		"name": "Impi",
+		"replaces": "Man-at-Arms",
+		"uniqueTo": "The Zulu",
+		"unitType": "Infantry",
+		"requiredTech": "Militarisation",
+		"movement": 2,
+		"strength": 28,
+		"cost": 45,
+		"upgradesTo": "Pike and Shot",
+		"obsoleteTech": "Metallurgy",
+		"attackSound": "metalhit",
+		"uniques": ["[+25]% Strength <vs [Infantry] units","[+15]% Strength <vs [Cavalry] units","[1] additional attacks per turn"],
+	}
 		
 		
 		
