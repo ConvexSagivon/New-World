@@ -6,8 +6,8 @@
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Domination",
 
-		"startIntroPart1": "Hail, Hail, You are the King! Shaka kaSenzangakhona, mighty leader of the Zulu people. Your arrival marks the beginning of a new age for the Zulu Kingdom. From the heart of Zululand, unite the clans beneath one banner and forge a powerful nation through discipline, courage, and determination. Build strong settlements, train formidable warriors, and expand your influence across southern Africa. 
-		"startIntroPart2": "The land is rich with opportunity, but rivals will challenge your ambitions. Lead your people wisely, develop our economy, and strengthen the kingdom with every passing generation. The future of the Zulu nation now rests in your hands. May your reign bring unity, strength, prosperity, and glory.",",
+		"startIntroPart1": "Hail, Hail, You are the King! Shaka kaSenzangakhona, mighty leader of the Zulu people. Your arrival marks the beginning of a new age for the Zulu Kingdom. From the heart of Zululand, unite the clans beneath one banner and forge a powerful nation through discipline, courage, and determination. Build strong settlements, train formidable warriors, and expand your influence across southern Africa.",
+		"startIntroPart2": "The land is rich with opportunity, but rivals will challenge your ambitions. Lead your people wisely, develop our economy, and strengthen the kingdom with every passing generation. The future of the Zulu nation now rests in your hands. May your reign bring unity, strength, prosperity, and glory.",
 		"declaringWar": "You stand in the way of my people. Let us solve this like warriors!",
 		"attacked": "You dare have the courage to challenge nod, but no fear, for I will sweep you out of history.",
 		"defeated": "You have tamed the spirit of the Zulu kingdom, to your will. Have grace on my people.",
@@ -18,9 +18,8 @@
 		"uniqueName": "Amabutho",
 		"uniques": ["[-50]% maintenance costs <for [Infantry] units>","[+2 Culture] from every [Barracks]"],
 		"cities": ["uLundi","oNdini","eShowe","uMlalazi","eNongoma","eMthonjaneni","eDlolwana","eNkandla","eHluhluwe","eMkuze","eMagudu","eMtubatuba",
-			"eHlabisa","eDumbe","eNquthu","eMelmoth","eMbongolwana","eMseleni","eJozini","ePongola"]
+			"eHlabisa","eDumbe","eNquthu","eMelmoth","eMbongolwana","eMseleni","eJozini","ePongola","eThekwini","Ixopo","Amanzimtoti","eMgungundlovu","eMgungundlovwana"]
 	},
-
 	{
 		"name": "The New Movement",
 		"leaderName": "Anton Slavik",
